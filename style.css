@@ -59,6 +59,12 @@
     border: 1px solid #008000;
 }
 
+/* Portfolio  */
+.card-img-top{
+    min-height: 311px;
+}
+
+
 /* social media icons styling */
 .social-icons {
     font-size: 36px;
